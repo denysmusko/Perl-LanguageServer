@@ -7,11 +7,11 @@ use Coro::AIO ;
 use JSON ;
 use File::Basename ;
 
-use v5.18;
+#use v5.18;
 
-no warnings 'experimental' ;
+#no warnings 'experimental' ;
 no warnings 'uninitialized' ;
-
+use feature "switch";
 
 use Compiler::Lexer;
 use Data::Dump qw{dump} ;
