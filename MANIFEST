@@ -1,0 +1,22 @@
+Changes
+lib/Perl/LanguageServer.pm
+lib/Perl/LanguageServer/DebuggerInterface.pm
+lib/Perl/LanguageServer/DebuggerProcess.pm
+lib/Perl/LanguageServer/DevTool.pm
+lib/Perl/LanguageServer/IO.pm
+lib/Perl/LanguageServer/Methods.pm
+lib/Perl/LanguageServer/Methods/DebugAdapter.pm
+lib/Perl/LanguageServer/Methods/DebugAdapterInterface.pm
+lib/Perl/LanguageServer/Methods/textDocument.pm
+lib/Perl/LanguageServer/Methods/workspace.pm
+lib/Perl/LanguageServer/Parser.pm
+lib/Perl/LanguageServer/Req.pm
+lib/Perl/LanguageServer/SyntaxChecker.pm
+lib/Perl/LanguageServer/Workspace.pm
+Makefile.PL
+MANIFEST			This list of files
+README
+t/00-load.t
+
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
